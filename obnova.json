@@ -1,5 +1,4 @@
 {
-  "latest_number": 21,
-  "latest": "0.2.1",
-  "drop": "0.2.1"
+  "updateurl": "http://test.ru",
+  "latest": "1.0.0"
 }
